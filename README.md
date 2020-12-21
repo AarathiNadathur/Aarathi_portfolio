@@ -14,3 +14,16 @@
 * Integrated a chatbot including Twitter Sentiment Analysis, Investor Sentiment Analysis, Prediction of Stock Price
 
 ## [Project 3: Image Recognition - Machine and Deep Learning](https://github.com/AarathiNadathur/cifar-100)
+* Study performance of different classifiers on CIFAR-100 dataset. Worked on machine learning algorithms such as SVM,
+Logistic regression, Naïve Bayes, random forests, decision tree algorithms to find most efficient algorithm.
+* Performed binary classification of images in vehicle 1 and vehicle 2. The algorithm is tested against hiding 2 sub-classes image data during the training stage.
+* Deep learning algorithm - CNN was implemented for image recognition and resulted an accuracy rate of 85%
+
+## [Project 4: Tableau covid19](https://github.com/AarathiNadathur/Tableau-COVID19-Dashboard)
+* Built an interactive dashboard showing the confirmed cases and casualties worldwide due to the virus. 
+* Presented the top 10 countries having higher confirmed cases and casualties.
+* [Dasboard 1](https://public.tableau.com/shared/R5ZC3H9T7?:display_count=y&:origin=viz_share_link)   [Dashboard 2](https://public.tableau.com/views/indiacovid_15914386857570/Dashboard1?:language=en&:display_count=y&:origin=viz_share_link)
+
+## [Projeect 5: Instacart- Market Basket Analysis](https://github.com/AarathiNadathur/GWAR)
+* 
+*_
