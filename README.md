@@ -24,6 +24,12 @@ Logistic regression, Naïve Bayes, random forests, decision tree algorithms to f
 * Presented the top 10 countries having higher confirmed cases and casualties.
 * [Dasboard 1](https://public.tableau.com/shared/R5ZC3H9T7?:display_count=y&:origin=viz_share_link)   [Dashboard 2](https://public.tableau.com/views/indiacovid_15914386857570/Dashboard1?:language=en&:display_count=y&:origin=viz_share_link)
 
-## [Projeect 5: Instacart- Market Basket Analysis](https://github.com/AarathiNadathur/GWAR)
-* 
-*_
+## [Project 5: Instacart- Market Basket Analysis](https://github.com/AarathiNadathur/GWAR)
+* Implemented Market Basket Analysis to predict which products a user will buy again, try for the first time, or add to their cart next during a session.
+* Using PCA formed clusters to predict the most frequently brought products.
+
+## [Crime Analysis and Prediction Using big data](https://github.com/AarathiNadathur/Crime-Analysis-and-prediction-using-big-data)
+* Analyzing, auditing and distinguishing kinds of crime occurrences in a city & propose a combinatorial incident depiction
+* Dataset of crime is captured in MySQL database and then migrated to Hadoop using SQOOP tool. Data is analyzed
+on Hive and MapReduce. Finally, data is visualized in R-studio
+
